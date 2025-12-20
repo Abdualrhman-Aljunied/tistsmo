@@ -1,0 +1,20 @@
+.from {
+  background-color: #46586d;
+  padding: 40px;
+  height: 280px;
+  border-radius: 16px;
+}
+.alldiv div {
+  margin-bottom: 20px;
+}
+input:not(input:first-child) {
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid rgb(1, 24, 73);
+  margin-left: 15px;
+  width: 300px;
+}
+label {
+  color: white
+}
